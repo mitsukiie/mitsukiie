@@ -12,7 +12,3 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-
-## Minhas Estatísticas no GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitsukiie&show_icons=true&theme=radical)
