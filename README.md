@@ -6,8 +6,8 @@
 💻 Linguagens:
 - **Python**  
 - **JavaScript**  
-- **Node.js**   
-- Atualmente aprendendo: **Django**
+- **Node.js**
+
 🔧 Framework:
 - **Django**
 
