@@ -3,8 +3,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=green)
 
 ## Desenvolvedor Full Stack:
-💻 Linguagens: Python, JavaScript, HTML, CSS.
-🔧 Framework: Django.
+💻 Linguagens:
+- **Python**  
+- **JavaScript**  
+- **Node.js**   
+- Atualmente aprendendo: **Django**
+🔧 Framework:
+- **Django**
+
 📚 Sempre aprendendo algo novo (atualmente: Django).
+
 🎯 Focado em criar soluções eficientes e elegantes
+
 🎮 Apaixonado por codigo e games.  
