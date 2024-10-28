@@ -5,7 +5,6 @@
 ## Desenvolvedor Full Stack:
 💻 Linguagens:
 - **Python**  
-- **JavaScript**  
 - **Node.js**
 
 🔧 Framework:
