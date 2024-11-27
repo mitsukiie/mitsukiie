@@ -1,6 +1,6 @@
 # Ola, eu sou o Mits!
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=mitsukiie&color=red)
 
 ---
 
