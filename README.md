@@ -20,6 +20,7 @@
 - **Linguagens:**
   - Python 
   - Node.js
+  - TypeScript
 - **Frameworks:**
   - Django  
   - Flutter  
@@ -30,10 +31,8 @@
 
 - 🌟 [**Marketplace**](https://github.com/mitsukiie/marketplace):  
   Plataforma de doação desenvolvida com **Python Django**.
-- 🛒 [**E-commerce**](https://github.com/mitsukiie/website-php):  
-  Loja virtual construída em **PHP**, utilizando **XAMPP**.
-- 🏦 [**Banko**](https://github.com/mitsukiie/banko):  
-  Protótipo de banco digital desenvolvido em **Dart** com **Flutter**.
+- 🛒 [**GatitoAPI**](https://github.com/mitsukiie/GatitoAPI):  
+  API desenvolvida em **TypeScript**, utilizando **express**.
 
 ---
 
