@@ -37,7 +37,7 @@
 
 - 🌟 [**Marketplace**](https://github.com/mitsukiie/marketplace):  
   Plataforma de doação desenvolvida com **Python Django**.
-- 🛒 [**GatitoAPI**](https://github.com/mitsukiie/GatitoAPI):  
+- 🛒 [**Shouyo-API**](https://github.com/mitsukiie/Shouyo-API):  
   API desenvolvida em **TypeScript** com **express**.
 
 ---
