@@ -35,9 +35,7 @@
 
 ### 🚀 **Projetos em Destaque**
 
-- 🌟 [**Marketplace**](https://github.com/mitsukiie/marketplace):  
-  Plataforma de doação desenvolvida com **Python Django**.
-- 🛒 [**Shouyo-API**](https://github.com/mitsukiie/Shouyo-API):  
+- 🌟 [**Shouyo-API**](https://github.com/mitsukiie/Shouyo-API):  
   API desenvolvida em **TypeScript** com **express**.
 
 ---
