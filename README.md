@@ -6,7 +6,7 @@
 
 ### 📝 **Sobre Mim**
 
-| ![image](https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73) | Olá! Meu nome é Caio Victor, sou um desenvolvedor fullstack especializado em criação de APIs e aplicações web. Tenho experiência em Python, JavaScript, TypeScript e frameworks modernos para desenvolvimento web. Gosto de transformar ideias em soluções funcionais, combinando criatividade e eficiência para entregar projetos de alta qualidade. |
+| ![image](https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73) | Olá! Meu nome é Caio Victor, sou um desenvolvedor backend especializado em criação de APIs e aplicações web. Tenho experiência em Python, JavaScript, TypeScript e frameworks modernos para desenvolvimento web. Gosto de transformar ideias em soluções funcionais, combinando criatividade e eficiência para entregar projetos de alta qualidade. |
 |---|---| 
 
 🎯 **Objetivo:** Criar aplicações que impactem positivamente o dia a dia das pessoas.  
@@ -35,7 +35,7 @@
 
 ### 🚀 **Projetos em Destaque**
 
-- 🌟 [**Fast-API**](https://github.com/mitsukiie/Fast-API):  
+- 🌟 [**Dinamic-API**](https://github.com/mitsukiie/Dinamic-API):  
   API feita em **TypeScript** com **express** e **JWT** para autenticação.
   
 - 🌟 [**Shouyo-API**](https://github.com/mitsukiie/Shouyo-API):  
