@@ -37,9 +37,6 @@
 
 - 🌟 [**Dinamic-API**](https://github.com/mitsukiie/Dinamic-API):  
   API feita em **TypeScript** com **express** e **JWT** para autenticação.
-  
-- 🌟 [**Shouyo-API**](https://github.com/mitsukiie/Shouyo-API):  
-  API desenvolvida em **TypeScript** com **express**.
 
 ---
 
