@@ -27,7 +27,7 @@ Busco constantemente evoluir minhas habilidades e acompanhar as tendências da t
 
 ## 🔹 Minha Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,discordjs,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,django,html,css,discord,vscode,git,github&theme=dark" />
 
 ---
 
