@@ -1,35 +1,33 @@
-# Ola, eu sou o Mits!
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fcfcfc&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Mits!" alt="Typing SVG" />
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mitsukiie&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=mitsukiie&color=red) 
 
----
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="400px" align="right">
 
 ### 📝 **Sobre Mim**
+<p align="left"> 
+  
+ 👋 Olá! Meu nome é **Caio Victor (Mits)**, sou desenvolvedor backend especializado na criação de **APIs** e **aplicações web**. Tenho experiência em **Python**, **JavaScript**, **TypeScript** e frameworks modernos que impulsionam o desenvolvimento de soluções escaláveis e robustas.  
 
-| ![image](https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73) | Olá! Meu nome é Caio Victor, sou um desenvolvedor backend especializado em criação de APIs e aplicações web. Tenho experiência em Python, JavaScript, TypeScript e frameworks modernos para desenvolvimento web. Gosto de transformar ideias em soluções funcionais, combinando criatividade e eficiência para entregar projetos de alta qualidade. |
-|---|---| 
-
-🎯 **Objetivo:** Criar aplicações que impactem positivamente o dia a dia das pessoas.  
-🎮 **Interesses:** Apaixonado por codigo e games.  
-📚 **Aprendizado Atual:** Aperfeiçoando habilidades em **Django** e **TypeScript**.
+Meu foco é transformar ideias em sistemas eficientes e bem estruturados, sempre aplicando boas práticas de arquitetura, modularização e performance.  
+Busco constantemente evoluir minhas habilidades e acompanhar as tendências da tecnologia para entregar projetos de **alta qualidade** e **valor real**.
+</p>
 
 ---
 
-## 💻 Tecnologias  
+| <img src="https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73" width="100"/> | <div align="left"> 🎯 **Objetivo:** Criar aplicações que impactem positivamente o dia a dia das pessoas.<br> 🎮 **Interesses:** Apaixonado por código e games.<br> 📚 **Aprendizado Atual:** Aperfeiçoando habilidades em **Django** e **TypeScript**. </div> |
+|---|---|
 
-### 🔹 Linguagens  
-- JavaScript (Node.js)  
-- TypeScript  
-- Python  
 
-### 🔹 Desenvolvimento de Bots  
-- Discord.js  
-- API REST para bots  
-- Integração com bancos de dados  
 
-### 🔹 Frameworks  
-- Express.js
-- Django    
+
+---  
+
+## 🔹 Minha Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,discordjs,vscode,git,github&theme=dark" />
 
 ---
 
