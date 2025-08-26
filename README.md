@@ -26,7 +26,7 @@ Busco constantemente evoluir minhas habilidades e acompanhar as tendências da t
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Projeto V3l0z" src="https://github.com/projeto-v3l0z.png"/>](https://github.com/projeto-v3l0z)
+[<img align="left" height="94px" width="94px" alt="V3l0z Academy" src="https://github.com/projeto-v3l0z.png"/>](https://github.com/projeto-v3l0z)
 
 **Backend Developer** \
 [**Projeto V3l0z**](https://github.com/projeto-v3l0z) • Internship \
