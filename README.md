@@ -29,7 +29,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="V3l0z Academy" src="https://github.com/projeto-v3l0z.png"/>](https://github.com/projeto-v3l0z)
 
 **Backend Developer** \
-[**Projetc V3l0z**](https://github.com/projeto-v3l0z) • Internship \
+[**V3l0z Academy**](https://github.com/projeto-v3l0z) • Internship \
 **Languages & Technologies:** `Python` • `Django` • `React` • `MySQL` \
 **Highlighted Project:** ...
 
