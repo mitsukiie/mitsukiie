@@ -17,11 +17,6 @@ Busco constantemente evoluir minhas habilidades e acompanhar as tendências da t
 
 ---
 
-| <img src="https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73" width="100"/> | <div align="left"> 🎯 **Objetivo:** Criar aplicações que impactem positivamente o dia a dia das pessoas.<br> 🎮 **Interesses:** Apaixonado por código e games.<br> 📚 **Aprendizado Atual:** Aperfeiçoando habilidades em **Django** e **TypeScript**. <br> 💬 Contato: [LinkedIn](https://www.linkedin.com/in/caio-victor-66715b309/) • [Discord](https://discord.com/users/1098021115571490947) • Email: c.victor3815@gmail.com</div> |
-|---|---|
-
----
-
 ## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
