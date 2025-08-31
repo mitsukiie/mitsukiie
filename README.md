@@ -52,6 +52,22 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 ---
 
+<h2 align="center">📬 Contato</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-victor-66715b309/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1098021115571490947">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:c.victor3815@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 > "Aprender é o combustível que move meu desenvolvimento!" 🚀!
 
 
