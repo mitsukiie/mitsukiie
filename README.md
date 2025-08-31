@@ -42,23 +42,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
     [![My Skills](https://skillicons.dev/icons?i=ts,js,python,dart)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,discordjs,django,flutter)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,bun,discordjs,django,flutter)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php)](https://skillicons.dev)
-
----
-
-### 🚀 **Projetos em Destaque**
-
-- 🌟 [**Dinamic-API**](https://github.com/mitsukiie/Dinamic-API):  
-  API feita em **TypeScript** com **express** e **JWT** para autenticação.
-
-- 🌟 [**Discord Bot Template**](https://github.com/mitsukiie/discordjs-bot-template):  
- Bot feito em **Javascript** com **configuração modular**, suporte a **subcomandos** e integração **opcional com API**.
 
 ---
 
