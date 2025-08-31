@@ -66,8 +66,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
   </a>
 </p>
 
----
-
-> "Aprender é o combustível que move meu desenvolvimento!" 🚀!
+> "See a need, fill a need" - Bigweld
 
 
