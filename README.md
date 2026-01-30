@@ -37,7 +37,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
     [![My Skills](https://skillicons.dev/icons?i=ts,js,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,bun,react,discordjs,django,elysia)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,bun,react,vite,nextjs,discordjs,django)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
