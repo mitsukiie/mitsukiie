@@ -21,10 +21,18 @@ Busco constantemente evoluir minhas habilidades e acompanhar as tendências da t
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Apolo Solutions" src="https://github.com/Apolo-Solution-s.png" />](https://github.com/Apolo-Solution-s)
+
+**Co-founder & Full Stack Developer** \
+[**Apolo Solution's**](https://github.com/Apolo-Solution-s) • Statup \
+**Languages & Technologies:** `Node.js` • `Next.js` • `React` \
+**Highlighted Project:** ...
+
+
 [<img align="left" height="94px" width="94px" alt="V3l0z Academy" src="https://github.com/projeto-v3l0z.png"/>](https://github.com/projeto-v3l0z)
 
 **Backend Developer** \
-[**V3l0z Academy**](https://github.com/projeto-v3l0z) • Internship \
+[**V3l0z Academy**](https://github.com/projeto-v3l0z) • Internship Program \
 **Languages & Technologies:** `Python` • `Django` • `React` • `MySQL` \
 **Highlighted Project:** ...
 
