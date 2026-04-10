@@ -48,7 +48,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
     [![My Skills](https://skillicons.dev/icons?i=nodejs,bun,react,vite,nextjs,discordjs,django)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,redis)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,redis,mongodb)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php)](https://skillicons.dev)
