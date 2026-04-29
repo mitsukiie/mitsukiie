@@ -1,15 +1,20 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fcfcfc&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Caio+Victor+%F0%9F%91%8B;Software+Engineer+%7C+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fcfcfc&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Caio+Victor+%F0%9F%91%8B;Software+Engineer" alt="Typing SVG" />
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mitsukiie&color=red) 
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend%20Focused-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Building%20SaaS-000?style=for-the-badge"/>
+</p>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="400px" align="right">
 
 ### 📝 **Sobre Mim**
 <p align="left"> 
   
-👋 👋 Olá! Meu nome é Caio Victor, sou Desenvolvedor de Software com foco em Backend e desenvolvimento Fullstack.
+👋 Olá! Meu nome é Caio Victor, sou Desenvolvedor de Software com foco em Backend e desenvolvimento Fullstack.
 
 Tenho experiência na criação de APIs, aplicações web e sistemas escaláveis, utilizando tecnologias modernas voltadas para construção de soluções performáticas, seguras e bem estruturadas.
 
@@ -52,6 +57,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
     [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php)](https://skillicons.dev)
 
 ---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mitsukiie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsukiie&layout=compact&theme=dark"/>
+</p>
 
 <h2 align="center">📬 Contato</h2>
 
