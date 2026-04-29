@@ -58,13 +58,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mitsukiie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsukiie&layout=compact&theme=dark"/>
-</p>
-
 <h2 align="center">📬 Contato</h2>
 
 <p align="center">
