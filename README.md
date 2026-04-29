@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fcfcfc&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Mits!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fcfcfc&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Caio+Victor+%F0%9F%91%8B;Software+Engineer+%7C+Fullstack+Developer" alt="Typing SVG" />
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mitsukiie&color=red) 
@@ -9,10 +9,11 @@
 ### 📝 **Sobre Mim**
 <p align="left"> 
   
- 👋 Olá! Meu nome é **Caio Victor**, sou desenvolvedor backend especializado na criação de **APIs** e **aplicações web**, com experiência em **Python**, **JavaScript**, **TypeScript** e frameworks modernos.  
+👋 👋 Olá! Meu nome é Caio Victor, sou Desenvolvedor de Software com foco em Backend e desenvolvimento Fullstack.
 
-Meu foco é transformar ideias em sistemas eficientes e bem estruturados, sempre aplicando boas práticas de arquitetura, modularização e performance.  
-Busco constantemente evoluir minhas habilidades e acompanhar as tendências da tecnologia para entregar projetos de **alta qualidade** e **valor real**.
+Tenho experiência na criação de APIs, aplicações web e sistemas escaláveis, utilizando tecnologias modernas voltadas para construção de soluções performáticas, seguras e bem estruturadas.
+
+Meu principal interesse está no desenvolvimento de sistemas robustos, arquitetura de software, organização de código e otimização de performance. Gosto de transformar ideias em soluções reais, priorizando manutenibilidade, escalabilidade e boas práticas de engenharia de software.
 </p>
 
 ---
@@ -21,20 +22,17 @@ Busco constantemente evoluir minhas habilidades e acompanhar as tendências da t
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Apolo Solutions" src="https://github.com/Apolo-Solution-s.png" />](https://github.com/Apolo-Solution-s)
-
+[<img align="left" height="80px" width="80px" alt="Apolo Solutions" src="https://github.com/Apolo-Solution-s.png" />](https://github.com/Apolo-Solution-s)
 **Co-founder & Full Stack Developer** \
 [**Apolo Solution's**](https://github.com/Apolo-Solution-s) • Statup \
-**Languages & Technologies:** `Node.js` • `Next.js` • `React` \
-**Highlighted Project:** ...
+**Languages & Technologies:** `Node.js` • `Next.js` • `React` 
 
+</br>
 
-[<img align="left" height="94px" width="94px" alt="V3l0z Academy" src="https://github.com/projeto-v3l0z.png"/>](https://github.com/projeto-v3l0z)
-
+[<img align="left" height="85px" width="85px" alt="V3l0z Academy" src="https://github.com/projeto-v3l0z.png"/>](https://github.com/projeto-v3l0z)
 **Backend Developer** \
 [**V3l0z Academy**](https://github.com/projeto-v3l0z) • Internship Program \
-**Languages & Technologies:** `Python` • `Django` • `React` • `MySQL` \
-**Highlighted Project:** ...
+**Languages & Technologies:** `Python` • `Django` • `React` • `MySQL` 
 
 ---  
 
